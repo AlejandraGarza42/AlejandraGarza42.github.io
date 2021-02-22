@@ -2353,6 +2353,17 @@ input, select, textarea {
 			}
 
 		.image.main {
+			display: block;
+			margin: 0 0 3em 0;
+			width: 100%;
+			/* display: block;
+			width: 25%;
+			height: 50%;
+			float: left;
+			margin-right: 20px;
+			margin-bottom: 20px; */
+		}
+		.image.side {
 			/* display: block;
 			margin: 0 0 3em 0;
 			width: 100%; */
@@ -2361,7 +2372,7 @@ input, select, textarea {
 			height: 50%;
 			float: left;
 			margin-right: 20px;
-			padding-bottom: 20px;
+			margin-bottom: 20px;
 		}
 
 			.image.main img {
