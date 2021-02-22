@@ -1,6 +1,6 @@
-## Hello! Welcome to my portfolio.
+# Hello! Welcome to my portfolio.
 
-# The template for this website is called Phantom, credits below: 
+## The template for this website is called Phantom, credits below: 
 
 Phantom by HTML5 UP
 html5up.net | @ajlkn
